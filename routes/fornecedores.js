@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 router.get('/', function(req, res, next) {
-  res.send('e us guri');
+  res.send('e as gurias');
 });
 
 /* GET users listing. */
